@@ -8,17 +8,13 @@ permalink: /dubai-urlaub-buchen/
 keyword: "dubai urlaub buchen"
 affiliate_program: "awin_check24_reise"
 word_count: 1700
-image: "https://images.pexels.com/photos/18799488/pexels-photo-18799488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-image_alt: "Stunning aerial shot of a pier in Poreč, Croatia, surrounded by clear turquoise water."
-image_credit: "Nathanael Schmer via Pexels"
+image: "https://images.pexels.com/photos/36175642/pexels-photo-36175642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Beautiful daytime view of Bourtzi Castle in Nafplio, Greece, with mountains and sea."
+image_credit: "Alex Ravvas via Pexels"
 ---
 
-*Hinweis: Dieser Artikel enthält Affiliate-Links. Wenn du über diese Links buchst, erhalten wir eine kleine Provision – für dich entstehen keine zusätzlichen Kosten.*
-
 ---
 
-
-*Hinweis: Dieser Artikel enthält Affiliate-Links. Wenn du über diese Links ein Produkt kaufst oder buchst, erhalten wir eine kleine Provision – für dich entstehen keine zusätzlichen Kosten.*
 
 ---
 
