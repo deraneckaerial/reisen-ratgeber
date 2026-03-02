@@ -8,17 +8,13 @@ permalink: /last-minute-urlaub-uber-silvester/
 keyword: "last minute urlaub über silvester"
 affiliate_program: "awin_check24_reise"
 word_count: 1520
-image: "https://images.pexels.com/photos/18799488/pexels-photo-18799488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-image_alt: "Stunning aerial shot of a pier in Poreč, Croatia, surrounded by clear turquoise water."
-image_credit: "Nathanael Schmer via Pexels"
+image: "https://images.pexels.com/photos/35284072/pexels-photo-35284072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Picturesque view of a seaside town with a sandy beach and calm blue waters."
+image_credit: "Peter Xie via Pexels"
 ---
 
-*Hinweis: Dieser Artikel enthält Affiliate-Links. Wenn du über diese Links buchst, erhalten wir eine kleine Provision – für dich entstehen keine zusätzlichen Kosten.*
-
 ---
 
-
-*Hinweis: Dieser Artikel enthält Affiliate-Links. Wenn du über diese Links ein Produkt kaufst oder buchst, erhalten wir eine kleine Provision – für dich entstehen keine zusätzlichen Kosten.*
 
 ---
 
