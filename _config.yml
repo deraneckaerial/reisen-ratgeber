@@ -1,0 +1,9 @@
+title: "Reisen Ratgeber"
+description: "Hotels, Pauschalreisen & Last-Minute günstig buchen"
+url: "https://deraneckaerial.github.io"
+baseurl: "/reisen-ratgeber"
+lang: de
+permalink: /:title/
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
