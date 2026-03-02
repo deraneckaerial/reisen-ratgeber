@@ -8,6 +8,9 @@ permalink: /spontan-urlaub-buchen/
 keyword: "spontan urlaub buchen"
 affiliate_program: "awin_check24_reise"
 word_count: 1620
+image: "https://images.pexels.com/photos/18799488/pexels-photo-18799488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Stunning aerial shot of a pier in Poreč, Croatia, surrounded by clear turquoise water."
+image_credit: "Nathanael Schmer via Pexels"
 ---
 
 *Hinweis: Dieser Artikel enthält Affiliate-Links. Wenn du über diese Links buchst, erhalten wir eine kleine Provision – für dich entstehen keine zusätzlichen Kosten.*
